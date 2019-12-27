@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+            xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+            xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+            xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+            xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+            xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+            xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+            xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+            xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+            xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+            xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+            xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+            xmlns:w10="urn:schemas-microsoft-com:office:word"
+            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+            xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+            xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+            xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+            xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+            xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+            xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+            xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
+            mc:Ignorable="w14 w15 w16se w16cid wp14">
+    <w:body>
+        <w:p w:rsidR="000E5492" w:rsidRDefault="000E5492" w:rsidP="000E5492">
+            <w:pPr>
+                <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>${topic}</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00080941" w:rsidRDefault="00D65F1A">
+            <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体"/>
+                    <w:b/>
+                    <w:sz w:val="36"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体"/>
+                    <w:b/>
+                    <w:sz w:val="36"/>
+                </w:rPr>
+                <w:t>监理工作指令</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="004D43DB" w:rsidRDefault="004D43DB" w:rsidP="004D43DB">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>监管单位：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:t>${supervise}</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:t xml:space="preserve">             </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:t>合同号：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:t>${contact}</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00080941" w:rsidRPr="004D43DB" w:rsidRDefault="004D43DB">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:t>施工单位：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:t>${build}</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:t>编号：</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:t>${commandCode}</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblW w:w="8535" w:type="dxa"/>
+                <w:tblInd w:w="93" w:type="dxa"/>
+                <w:tblBorders>
+                    <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tblBorders>
+                <w:tblLook w:val="0000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0"
+                           w:noVBand="0"/>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="8535"/>
+            </w:tblGrid>
+            <w:tr w:rsidR="00080941">
+                <w:trPr>
+                    <w:trHeight w:val="7573"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="8535" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00080941" w:rsidRDefault="00D65F1A">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Helvetica" w:cs="Helvetica"/>
+                                <w:color w:val="333333"/>
+                                <w:sz w:val="19"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:t>致：</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00701CAC" w:rsidRPr="00EC7B1C">
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia"/>
+                            </w:rPr>
+                            <w:t>${supervise}</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="00080941" w:rsidRDefault="00D65F1A">
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:cs="Helvetica"/>
+                                <w:color w:val="333333"/>
+                                <w:sz w:val="19"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">  我办监理人员于</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidR="005A3132">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica"/>
+                                <w:color w:val="333333"/>
+                                <w:sz w:val="19"/>
+                                <w:szCs w:val="19"/>
+                            </w:rPr>
+                            <w:t>${superviseDate}</w:t>
+                        </w:r>
+                        <w:r w:rsidR="005A3132">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                                <w:color w:val="333333"/>
+                                <w:sz w:val="19"/>
+                                <w:szCs w:val="19"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:cs="Helvetica"/>
+                                <w:color w:val="333333"/>
+                                <w:sz w:val="19"/>
+                            </w:rPr>
+                            <w:t>在巡视过程中，发现以下问题</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="00080941" w:rsidRDefault="00080941">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                    <#list table1 as problem>
+                    <w:p w:rsidR="00080941" w:rsidRDefault="005A3132">
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:hint="eastAsia"/>
+                            </w:rPr>
+                            <w:t>${problem.location}${problem.description}</w:t>
+                        </w:r>
+                    </w:p>
+                </#list>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00080941">
+                <w:trPr>
+                    <w:trHeight w:val="1317"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="8535" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00080941" w:rsidRDefault="00080941"/>
+                    <w:p w:rsidR="00080941" w:rsidRDefault="00D65F1A">
+                        <w:r>
+                            <w:t>监理工程师（签名）：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:t xml:space="preserve">                                          </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:t>日期：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:t xml:space="preserve">   </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:t>时签发</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00080941">
+                <w:trPr>
+                    <w:trHeight w:val="1281"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="8535" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00080941" w:rsidRDefault="00080941"/>
+                    <w:p w:rsidR="00080941" w:rsidRDefault="00D65F1A">
+                        <w:r>
+                            <w:t>承包人（签名）：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:t xml:space="preserve">                                              </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:t>日期：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:t xml:space="preserve">   </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:t>时签发</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00080941">
+                <w:trPr>
+                    <w:trHeight w:val="1189"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="8535" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00480293" w:rsidRDefault="00480293"/>
+                    <w:p w:rsidR="00080941" w:rsidRDefault="00D65F1A">
+                        <w:r>
+                            <w:t>抄报：</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w:rsidR="00080941" w:rsidRDefault="00D65F1A">
+            <w:r>
+                <w:t>注：此表可有专业监理工程师及其以上人员签发，用于除暂时停工令以外的指令，承包人必须用相应表格书面回复</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00080941" w:rsidRDefault="00080941"/>
+        <w:p w:rsidR="00EB1C37" w:rsidRDefault="00EB1C37">
+            <w:pPr>
+                <w:rPr>
+                    <w:noProof/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00080941" w:rsidRDefault="00D65F1A">
+            <w:r>
+                <w:t>现场问题：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00EB1C37" w:rsidRDefault="00EB1C37">
+            <w:pPr>
+                <w:rPr>
+                    <w:noProof/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+    <#list table2 as pic>
+    <#if pic.newPic??>
+        <w:p w:rsidR="00336864" w:rsidRDefault="00336864" w:rsidP="00336864">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+            </w:pPr>
+            <w:proofErr w:type="spellStart"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Helvetica" w:hAnsi="Helvetica" w:cs="Helvetica" w:hint="eastAsia"/>
+                    <w:color w:val="333333"/>
+                    <w:sz w:val="19"/>
+                    <w:szCs w:val="19"/>
+                </w:rPr>
+                <w:t>${pic.location}${pic.description}</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+        </w:p>
+        <#list pic.newPic as pic2>
+    <w:p w:rsidR="00470BA2" w:rsidRDefault="00470BA2" w:rsidP="00470BA2">
+        <w:pPr>
+            <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+        </w:pPr>
+        <w:pPr>
+            <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+            </w:rPr>
+        </w:pPr>
+        <w:r>
+            <w:rPr>
+                <w:noProof/>
+            </w:rPr>
+            <w:drawing>
+                <wp:inline distT="0" distB="0" distL="0" distR="0">
+                    <wp:extent cx="2400935" cy="1598930"/>
+                    <wp:effectExtent l="19050" t="0" r="0" b="0"/>
+                    <wp:docPr id="${pic2_index+1}" name="图片 ${pic2_index+1}" descr="${pic2.path}"/>
+                    <wp:cNvGraphicFramePr>
+                        <a:graphicFrameLocks
+                                xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+                    </wp:cNvGraphicFramePr>
+                    <a:graphic
+                            xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                        <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                            <pic:pic
+                                    xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:nvPicPr>
+                                    <pic:cNvPr id="0" name="Picture ${pic2_index+1}" descr="${pic2.path}"/>
+                                    <pic:cNvPicPr>
+                                        <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                                    </pic:cNvPicPr>
+                                </pic:nvPicPr>
+                                <pic:blipFill>
+                                    <a:blip r:embed="${pic2.rid}"/>
+                                    <a:srcRect/>
+                                    <a:stretch>
+                                        <a:fillRect/>
+                                    </a:stretch>
+                                </pic:blipFill>
+                                <pic:spPr bwMode="auto">
+                                    <a:xfrm>
+                                        <a:off x="0" y="0"/>
+                                        <a:ext cx="2400935" cy="1598930"/>
+                                    </a:xfrm>
+                                    <a:prstGeom prst="rect">
+                                        <a:avLst/>
+                                    </a:prstGeom>
+                                    <a:noFill/>
+                                    <a:ln w="9525">
+                                        <a:noFill/>
+                                        <a:miter lim="800000"/>
+                                        <a:headEnd/>
+                                        <a:tailEnd/>
+                                    </a:ln>
+                                </pic:spPr>
+                            </pic:pic>
+                        </a:graphicData>
+                    </a:graphic>
+                </wp:inline>
+            </w:drawing>
+        </w:r>
+        <w:r>
+            <w:rPr>
+                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+            </w:rPr>
+            <w:t xml:space="preserve"></w:t>
+        </w:r>
+    </w:p>
+    </#list>
+
+        </#if>
+        </#list>
+        <w:sectPr w:rsidR="00EB1C37" w:rsidRPr="00336864" w:rsidSect="00D3266A">
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992"
+                     w:gutter="0"/>
+            <w:cols w:space="425"/>
+            <w:docGrid w:type="lines" w:linePitch="312"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
